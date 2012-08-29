@@ -1,4 +1,4 @@
 a-random-string-of-letters-and-numbers
 ======================================
 
-Learning Git. Programming Shit.
+<dt>Learning Git. Programming Shit.</dt>
